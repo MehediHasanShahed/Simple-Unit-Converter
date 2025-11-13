@@ -11,9 +11,9 @@ A minimalist and user-friendly **Unit Converter** web application that allows us
 ## 📸 Screenshot
 | Converter Interface |
 |----------------------|
-| ![Screenshot](screenshots/screenshot.png) |
+| <img width="1878" height="923" alt="Opera Snapshot_2025-11-13_221334_index html" src="https://github.com/user-attachments/assets/65cbf9ff-3b8c-4f07-8c60-fecfcb09cec1" /> |
+| <img width="1878" height="923" alt="Opera Snapshot_2025-11-13_221345_index html" src="https://github.com/user-attachments/assets/08cd46bb-cfbc-4dd4-aa3b-1bc5d5716494" /> |
 
-> _Place your screenshot inside a `screenshots/` folder and name it `screenshot.png`._
 
 ## 📁 Project Structure
 ```
@@ -22,9 +22,7 @@ Simple-Unit-Converter/
 │
 ├── index.html          # Main HTML file for structure
 ├── style.css           # Styling and layout
-├── script.js           # Core conversion logic
-└── screenshots/
-└── screenshot.png  # (optional) App screenshot
+└── script.js           # Core conversion logic
 
 ```
 
